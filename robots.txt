@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shaikhishammi-boop.github.io/sitemap.xml
